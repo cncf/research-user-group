@@ -13,8 +13,8 @@ Twice-monthly meetings on the [second Wednesdays at 09:00 UTC][1], and the
 
 ## Initiatives
 
-- [Research Organization Survey] - An index of Research Organizations that have
-  adopted cloud native technologies.
+- [Research Organization Survey][index] - An index of Research Organizations
+  that have adopted cloud native technologies.
 
 
 [Meeting Agenda and Notes]: https://docs.google.com/document/d/1vvXxW4Cd4P5gcmWGz-_yKbgJex2_NlSWaHtsk_56TnA/edit?ts=5d53c5ff#
@@ -22,4 +22,4 @@ Twice-monthly meetings on the [second Wednesdays at 09:00 UTC][1], and the
 [2]: https://calendar.google.com/event?action=TEMPLATE&tmeid=N3U5NjhubHJpaTRtZHAyNWlqY2FzZjljc2NfMjAxOTA4MjhUMTUwMDAwWiBjaHVuZ0BsaW51eGZvdW5kYXRpb24ub3Jn&tmsrc=chung%40linuxfoundation.org&scp=ALL
 [Agenda]: https://docs.google.com/document/d/1vvXxW4Cd4P5gcmWGz-_yKbgJex2_NlSWaHtsk_56TnA/edit?ts=5d53c5ff#
 [Zoom]: https://zoom.us/j/6600498482
-[Research Institution Index]: /org-index
+[index]: /org-index
