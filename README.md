@@ -15,6 +15,8 @@ Twice-monthly meetings on the [second Wednesdays at 09:00 UTC][1], and the
 
 - [Research Organization Survey][index] - An index of Research Organizations
   that have adopted cloud native technologies.
+- [Resources and Links][links] - Helpful resources and links for cloud native
+  or Kubernetes centric research computing.
 
 
 [Meeting Agenda and Notes]: https://docs.google.com/document/d/1vvXxW4Cd4P5gcmWGz-_yKbgJex2_NlSWaHtsk_56TnA/edit?ts=5d53c5ff#
