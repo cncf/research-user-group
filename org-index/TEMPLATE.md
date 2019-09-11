@@ -137,7 +137,7 @@ services such as Argo, or JupyterHub?**
 
 ## Workload managers
 
-**Does your group run other workload managers? (SLURM, HTCondor etc)  If so,
+**Does your group run other workload managers? (Slurm, HTCondor etc)  If so,
 what size cluster(s) do you have supporting those other workload managers?**
 
 
@@ -183,15 +183,15 @@ using it, what route did you go with which tools?**
 
 ## Workflow technologies, runners, platforms, and/or standards
 
-**(Here we use the word "workflow" to mean batch-style data analysis workflows, not buiness process workflows)**
-
-
+**(Here we use the word "workflow" to mean batch-style data analysis workflows,
+not business process workflows)**
 
 **Do your researchers run workflows at your site?**
 
 
 
-**Does your site support particular workflow technologies such as specific frameworks, runners, platforms, and/or standards?**
+**Does your site support particular workflow technologies such as specific
+frameworks, runners, platforms, and/or standards?**
 
 
 
