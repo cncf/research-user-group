@@ -180,3 +180,22 @@ separate your workloads? (e.g. separate clusters / separate namespaces)**
 **Have you explored multi-cluster or federated deployments? If you are actively
 using it, what route did you go with which tools?**
 
+
+## Workflow technologies, runners, platforms, and/or standards
+
+**(Here we use the word "workflow" to mean batch-style data analysis workflows, not buiness process workflows)**
+
+
+
+**Do your researchers run workflows at your site?**
+
+
+
+**Does your site support particular workflow technologies such as specific frameworks, runners, platforms, and/or standards?**
+
+
+
+**In the future, do you plan to directly support particular workflow technologies
+such as specific frameworks, runners, platforms, and/or standards?**
+
+
