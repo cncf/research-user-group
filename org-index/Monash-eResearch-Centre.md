@@ -17,17 +17,23 @@ researchers and technologists.
 
 **Do you consider your group or organization a “traditional” HPC site?**
 
-No. Monash eResearch Centre provides other infractructue and services in addition to
+No. Monash eResearch Centre provides other infrastructure and capabilities in addition to
 traditional HPC/HTC clusters:
 
 - [MASSIVE]/MonARCH - Cloud based batch computing facilities suited to data
   centric research including HPC,HTC & GPU intensive applications.
-- [CVL] - A platform for integrating tools, resources, and data for researchers.
-Research Data Services - Comprised of mutiple infrastructure tiers and services
-including a 14 Petabyte Ceph cluster for online storage.
+- Research Data Services - Comprised of multiple storage infrastructure tiers and
+  services including a 14 Petabyte Ceph cluster for online storage.
 - R@CMon/[NeCTAR] - The Australian Research cloud, designed for federated access to self-service computing and
 storage infrastructure for building bespoke systems and engaging in cross-institution collaboration.
 
+Cloud native Science Gateways and Virtual Laboratories:
+- [CVL] - A platform for integrating tools, resources, and data for researchers.
+- Store.Monash - An instance of [MyTardis], providing data ingestion and
+  scientific instrument integration services.
+- Monash SeRP - The Monash instance of UK Secure eResearch Platform for public
+  health research.
+- And an increasing number of other data science gateways and applications.
 
 **How many researchers does your organization have? or how many is your group
 supporting?**
@@ -51,9 +57,8 @@ bioinformatics, physics, generic research platform)**
 themselves / using kubectl to access etc)? or do they consume services deployed
 on top of it?**
 
-Most of our users are currently deploying and consuming Kubernetes directly
-either manually or via [Magnum]. Some are consuming services such as
-[JupyterHub] on top of Kubernetes.
+Most of our users are currently deploying and consuming Kubernetes directly either manually or via [Magnum]. 
+Some are consuming services such as [JupyterHub] on top of Kubernetes, and [MyTardis].
 
 
 **Do you allow your users to deploy their own applications from the internet or
@@ -70,7 +75,7 @@ not have a vetting process.
 
 - In response to uptake and demand from users.
 - As a way of increasing the utilisation of infrastructure & efficiencies in scheduling.
-- As part of a wider service offering of tools for researcher work-flows.
+- As part of a wider service offering of tools for researcher workflows.
 - As a method of improving portability of users workloads across systems and infrastructures.
 
 **Were you using containers previously before looking at Kubernetes?**
@@ -82,6 +87,8 @@ Yes:
 **How important is workload portability?**
 
 Very important - Most of our user support challenges are in this space.
+Improved workload portability also functions as the foundation of
+reproducible science practices.
 
 **Are you using Kubernetes to support “new” applications or workloads? or are
 you migrating traditional workloads?**
@@ -91,7 +98,7 @@ Both
 **If you are migrating to Kubernetes, how are you planning to migrate your
 traditional workloads?**
 
-By running both side by side, Applications and use cases amenable to 
+By running both side by side. Applications and use cases amenable to 
 Kubernetes deployment would be the first to trial & move.
 
 
@@ -115,7 +122,7 @@ N/A
 **What phase would you consider your Kubernetes environment is in? (e.g. 
 Investigating, Development, Production)**
 
- Mostly Investigating with some use cases and instances in development and production.
+Mostly investigating with some use cases and instances in development and production.
 
 **How many Kubernetes clusters do you run? What size are they? (total number of
 nodes, total core, total ram count)**
@@ -175,13 +182,13 @@ N/A
 services such as Argo, or JupyterHub?**
 
 - In house applications e.g. [MyTardis]
-- Juypter Hub
+- JuypterHub
 
 ---
 
 ## Workload managers
 
-**Does your group run other workload managers? (SLURM, HTCondor etc)  If so,
+**Does your group run other workload managers? (Slurm, HTCondor etc)  If so,
 what size cluster(s) do you have supporting those other workload managers?**
 
 Slurm
@@ -189,7 +196,7 @@ Slurm
 **Are you considering running another workload manager on top of Kubernetes? or
 pursuing running them natively on Kubernetes?**
 
-Not currently.
+Univa Engine
 
 **Have you integrated with more traditional environments? e.g. posix/parallel
 shared file systems etc?**
@@ -227,6 +234,35 @@ using it, what route did you go with which tools?**
 
 N/A
 
+## Workflow technologies, runners, platforms, and/or standards
+
+**(Here we use the word "workflow" to mean batch-style data analysis workflows,
+not business process workflows)**
+
+**Do your researchers run workflows at your site?**
+
+Yes.
+
+
+**Does your site support particular workflow technologies such as specific
+frameworks, runners, platforms, and/or standards?**
+
+We don't support particular workflow technologies. Most disciplines have 
+community specific tools and workflows. Some of the disciplines identified as
+doing this include:
+
+- Bioinformatics
+- Genomics
+- Neuroimaging
+
+Previously we made use of [Galaxy] for integrating bioinformatics with a SGE job scheduler.
+
+
+**In the future, do you plan to directly support particular workflow technologies
+such as specific frameworks, runners, platforms, and/or standards?**
+
+No plans yet. This would be entirely dependent on demand from the disciplines.
+
 
 [MASSIVE]: https://www.massive.org.au/
 [CVL]: https://www.cvl.org.au/
@@ -237,3 +273,4 @@ N/A
 [Murano]: https://wiki.openstack.org/wiki/Murano
 [k8s-on-openstack]: https://github.com/infraly/k8s-on-openstack
 [MyTardis]: https://github.com/mytardis/mytardis/
+[Galaxy]: https://usegalaxy.org/
