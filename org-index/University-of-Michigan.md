@@ -1,6 +1,6 @@
 # University of Michigan - Advanced Research Computing and Technology Services
 
-- **Date:** 2019-09-05
+- **Date:** 2019-09-29
 - **Contact:** rkillen'@'umich.edu
 - **Site:** http://arc-ts.umich.edu
 
@@ -305,6 +305,32 @@ Yes, as a part of the [SLATE-CI] project. We looked at and deployed
 
 
 
+## Workflow technologies, runners, platforms, and/or standards
+
+**(Here we use the word "workflow" to mean batch-style data analysis workflows,
+not business process workflows)**
+
+**Do your researchers run workflows at your site?**
+
+Yes. Both on top of Kubernetes and using our HPC Cluster.
+
+
+**Does your site support particular workflow technologies such as specific
+frameworks, runners, platforms, and/or standards?**
+
+Within Kubernetes, we support [Argo] and some of our users have adopted
+[GitLab CI][GitLab].
+
+On our HPC system, we don't directly support any workflow systems, but
+researchers have adopted or manage their own (e.g. [Snakemake])
+
+
+**In the future, do you plan to directly support particular workflow technologies
+such as specific frameworks, runners, platforms, and/or standards?**
+
+Nothing currently planned. It will be driven by Researcher request.
+
+
 [Resource Quotas]: https://kubernetes.io/docs/concepts/policy/resource-quotas/
 [Pod Security Policies]: https://kubernetes.io/docs/concepts/policy/pod-security-policy/
 [singularity]: https://sylabs.io/singularity/
@@ -330,3 +356,5 @@ Yes, as a part of the [SLATE-CI] project. We looked at and deployed
 [open policy agent]: https://www.openpolicyagent.org/
 [slate-ci]: https://slateci.io/
 [Federation-v1]: https://kubernetes.io/docs/concepts/cluster-administration/federation/
+[Argo]: https://argoproj.github.io/
+[Snakemake]: https://snakemake.readthedocs.io/en/stable/
