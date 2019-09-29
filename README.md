@@ -25,3 +25,4 @@ Twice-monthly meetings on the [second Wednesdays at 09:00 UTC][1], and the
 [Agenda]: https://docs.google.com/document/d/1vvXxW4Cd4P5gcmWGz-_yKbgJex2_NlSWaHtsk_56TnA/edit?ts=5d53c5ff#
 [Zoom]: https://zoom.us/my/cncfenduser
 [index]: /org-index
+[links]: /RESOURCES.md
