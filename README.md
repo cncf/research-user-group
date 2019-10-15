@@ -8,6 +8,7 @@ and directing effort to improve the Research Cloud Computing ecosystem.
 Twice-monthly meetings on the [second Wednesdays at 09:00 UTC][1], and the
 [fourth Wednesdays at 15:00 UTC][2].
 
+- [Mailing List]
 - [Meeting Agenda and Notes][Agenda]
 - [Zoom]
 
@@ -19,6 +20,7 @@ Twice-monthly meetings on the [second Wednesdays at 09:00 UTC][1], and the
   or Kubernetes centric research computing.
 
 
+[Mailing List]: https://lists.cncf.io/g/cncf-research-user-group
 [Meeting Agenda and Notes]: https://docs.google.com/document/d/1vvXxW4Cd4P5gcmWGz-_yKbgJex2_NlSWaHtsk_56TnA/edit?ts=5d53c5ff#
 [1]: https://calendar.google.com/event?action=TEMPLATE&tmeid=NGhsdnFxZG1jbDZsaTllamVnZjdkZmduNG9fMjAxOTA4MTRUMDkwMDAwWiBjaHVuZ0BsaW51eGZvdW5kYXRpb24ub3Jn&tmsrc=chung%40linuxfoundation.org&scp=ALL
 [2]: https://calendar.google.com/event?action=TEMPLATE&tmeid=N3U5NjhubHJpaTRtZHAyNWlqY2FzZjljc2NfMjAxOTA4MjhUMTUwMDAwWiBjaHVuZ0BsaW51eGZvdW5kYXRpb24ub3Jn&tmsrc=chung%40linuxfoundation.org&scp=ALL
