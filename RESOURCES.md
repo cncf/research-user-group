@@ -21,3 +21,4 @@
   and propagate RBAC policies, secrets etc.
 - [Zero to JupterHub](https://zero-to-jupyterhub.readthedocs.io/en/latest/) -
   Helm Chart for Jupyterhub maintained by upstream Jupyterhub community.
+- [Armada](https://github.com/G-Research/armada) - A multi-cluster batch scheduler for high-throughput workloads on Kubernetes
