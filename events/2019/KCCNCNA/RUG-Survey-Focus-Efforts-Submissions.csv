@@ -1,0 +1,16 @@
+Response #,Started At (CST),Screen Name,Public ID,Where should we focus our efforts?
+1,11/20/19 2:19 PM,Attendee-1,627544,multi-cluster
+2,11/20/19 2:19 PM,Attendee-1,627544,batch
+3,11/20/19 2:19 PM,Attendee-1,627544,batch
+4,11/20/19 2:19 PM,Attendee-5,86216,Multi-tenancy
+5,11/20/19 2:20 PM,Attendee-5,86216,Shared filesystems
+6,11/20/19 2:18 PM,Attendee-6,935431,multitenacy
+7,11/20/19 2:19 PM,Attendee-6,935431,Security
+8,11/20/19 2:19 PM,Attendee-7,285131,Usability for End Users
+9,11/20/19 2:19 PM,Attendee-8,892801,multitenancy
+10,11/20/19 2:19 PM,Attendee-11,540091,End user docs
+11,11/20/19 2:20 PM,Attendee-11,540091,Posix shared filesystem support
+12,11/20/19 2:22 PM,Attendee-11,540091,Software lifecycles (upgrading software)
+13,11/20/19 2:20 PM,Attendee-13,793127,push enhancements upstream
+14,11/20/19 2:18 PM,Attendee-16,1006912,Batch
+15,11/20/19 2:19 PM,Attendee-21,393960,Documentation

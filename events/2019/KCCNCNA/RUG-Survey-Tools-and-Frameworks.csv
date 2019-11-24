@@ -1,0 +1,44 @@
+Response #,Started At (CST),Screen Name,Public ID,What tools or frameworks are you using or would like to use?
+1,11/20/19 2:02 PM,Attendee-1,627544,Kubeflow
+2,11/20/19 2:10 PM,Attendee-1,627544,htcondor
+3,11/20/19 2:10 PM,Attendee-2,676445,jupyter jupyterlab tensorflow
+4,11/20/19 2:11 PM,Attendee-2,676445,tensorflow
+5,11/20/19 2:11 PM,Attendee-2,676445,pytorch
+6,11/20/19 2:11 PM,Attendee-2,676445,spark
+7,11/20/19 2:11 PM,Attendee-2,676445,OSG
+8,11/20/19 2:12 PM,Attendee-2,676445,cilogin
+9,11/20/19 2:03 PM,Attendee-4,863457,K8s
+10,11/20/19 2:03 PM,Attendee-5,86216,OpenShift
+11,11/20/19 2:10 PM,Attendee-5,86216,Jupyter
+12,11/20/19 2:10 PM,Attendee-5,86216,Jupyterhub
+13,11/20/19 2:10 PM,Attendee-5,86216,Opa
+14,11/20/19 2:03 PM,Attendee-6,935431,Home Grown
+15,11/20/19 2:10 PM,Attendee-6,935431,Jupyter
+16,11/20/19 2:11 PM,Attendee-6,935431,opa
+17,11/20/19 2:03 PM,Attendee-7,285131,"Rancher (for multitenancy & integrated tools (Grafana, etc)). OPA to apply security policies."
+18,11/20/19 2:05 PM,Attendee-7,285131,Would like: Service mesh once we can wrap our head around it.
+19,11/20/19 2:11 PM,Attendee-7,285131,slurm
+20,11/20/19 2:12 PM,Attendee-7,285131,singularity
+21,11/20/19 2:03 PM,Attendee-9,328198,K8s
+22,11/20/19 2:04 PM,Attendee-9,328198,openshift
+23,11/20/19 2:03 PM,Attendee-10,67197,"No clue. Completely new to this space. I'm here for me, not for work, so I'm mostly just checking it out. But I'm very interested in research and could see a career change in that direction."
+24,11/20/19 2:04 PM,Attendee-10,67197,"Oh, I guess we are doing some of this at work. We've got a GPU cluster set up and we're trying to enable it as a GPUaaS cluster."
+25,11/20/19 2:06 PM,Attendee-11,540091,"Kubeadm, jupyter, gitlab, Prometheus, kata, containerd, helm, helmfile, oauth2-proxy, mlflow, nginx-ingress, grafana, elasticsearch"
+26,11/20/19 2:11 PM,Attendee-11,540091,Opa
+27,11/20/19 2:12 PM,Attendee-11,540091,Singularity
+28,11/20/19 2:12 PM,Attendee-11,540091,Kubernetes
+29,11/20/19 2:12 PM,Attendee-11,540091,Keycloak
+30,11/20/19 2:11 PM,Attendee-12,778722,Kubeflow
+31,11/20/19 2:11 PM,Attendee-12,778722,Spark
+32,11/20/19 2:03 PM,Attendee-13,793127,"Using Kubespray, interested in Volcano"
+33,11/20/19 2:04 PM,Attendee-14,956116,"Cloud events, JupyterHub, data workflows, data analysis hpc job scheduling"
+34,11/20/19 2:04 PM,Attendee-14,956116,Data as a service
+35,11/20/19 2:10 PM,Attendee-14,956116,"Multi-cloud/multi-k8s (on-prem, hosted) infrastructure for supporting national laboratory user and facility web services"
+36,11/20/19 2:12 PM,Attendee-14,956116,CI/CD
+37,11/20/19 2:12 PM,Attendee-14,956116,GitLab
+38,11/20/19 2:10 PM,Attendee-15,437433,Kind
+39,11/20/19 2:07 PM,Attendee-16,1006912,"Kubernetes, kube-batch"
+40,11/20/19 2:10 PM,Attendee-16,1006912,"Kubernetes, Dask, Spark, HTCondor, KubeFlow, Jupyter, Binder"
+41,11/20/19 2:10 PM,Attendee-21,393960,spark
+42,11/20/19 2:10 PM,Attendee-21,393960,kubeflow
+43,11/20/19 2:10 PM,Attendee-21,393960,jupyter

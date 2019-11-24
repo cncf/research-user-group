@@ -1,0 +1,131 @@
+KubeCon / Cloud Native Con NA 2019 RUG Survey Results
+,Activity count,5
+,Participant count,21
+,Average responses,25.8
+
+Which industry or group do you represent?,Activity type,Multiple choice
+,Total responses,21
+,Unique participants,21
+,Response options,Count,Percent
+,Academia,9,42.86
+,Government,4,19.05
+,Non Profit,1,4.76
+,Private Sector,4,19.05
+,Other,3,14.29
+
+Are you using Kubernetes to support research workloads?,Activity type,Multiple choice
+,Total responses,15
+,Unique participants,15
+,Response options,Count,Percent
+,Not currently.,2,13.33
+,"Not currently, but looking into it.",3,20.0
+,"Yes, in development or testing purposes.",4,26.67
+,"Yes, in production.",6,40.0
+
+What tools or frameworks are you using or would like to use?,Activity type,Open ended
+,Total responses,43
+,Unique participants,15
+,Responses
+,Keycloak
+,Kubernetes
+,cilogin
+,GitLab
+,CI/CD
+,singularity
+,Singularity
+,slurm
+,OSG
+,Opa
+,opa
+,spark
+,Spark
+,Kubeflow
+,pytorch
+,tensorflow
+,"Kubernetes, Dask, Spark, HTCondor, KubeFlow, Jupyter, Binder"
+,Opa
+,jupyter
+,Kind
+,Jupyterhub
+,jupyter jupyterlab tensorflow
+,htcondor
+,kubeflow
+,Jupyter
+,"Multi-cloud/multi-k8s (on-prem, hosted) infrastructure for supporting national laboratory user and facility web services"
+,spark
+,Jupyter
+,"Kubernetes, kube-batch"
+,"Kubeadm, jupyter, gitlab, Prometheus, kata, containerd, helm, helmfile, oauth2-proxy, mlflow, nginx-ingress, grafana, elasticsearch"
+,Would like: Service mesh once we can wrap our head around it.
+,Data as a service
+,"Oh, I guess we are doing some of this at work. We've got a GPU cluster set up and we're trying to enable it as a GPUaaS cluster."
+,"Cloud events, JupyterHub, data workflows, data analysis hpc job scheduling"
+,openshift
+,OpenShift
+,K8s
+,"Rancher (for multitenancy & integrated tools (Grafana, etc)). OPA to apply security policies."
+,"No clue. Completely new to this space. I'm here for me, not for work, so I'm mostly just checking it out. But I'm very interested in research and could see a career change in that direction."
+,"Using Kubespray, interested in Volcano"
+,Home Grown
+,K8s
+,Kubeflow
+
+What is the biggest pain point you've encountered with using Kubernetes as a research platform?,Activity type,Open ended
+,Total responses,35
+,Unique participants,13
+,Responses
+,How to apply policy
+,Almost too many options  & new added every quarter
+,Multi Cluster
+,Learning Curve for our Users
+,It's easy*
+,run-to-completion job support
+,IPV6
+,Learning Curve
+,"""effort required"""
+,Scheduling
+,Shared file systems
+,Networking
+,Team knowledge
+,accounting
+,culture-change
+,file-system integration!
+,Security
+,Learning curve
+,Learningcurve
+,Scheduling
+,Understanding and translating customer's needs
+,slurm
+,OrganizationalSupport
+,security
+,munge-key
+,multi-tenancy
+,Learning Curve
+,multi-cluster
+,scaling
+,lack of scheduling features
+,Multitenancy
+,networking
+,scheduling
+,Multi-tenancy
+,scale
+
+Where should we focus our efforts?,Activity type,Q&A
+,Total responses,15
+,Unique participants,9
+,Responses,Upvotes,Downvotes
+,Software lifecycles (upgrading software),2,0
+,push enhancements upstream,1,0
+,Posix shared filesystem support,0,1
+,Shared filesystems,6,0
+,End user docs,3,0
+,batch,0,0
+,Usability for End Users,7,0
+,Security,2,1
+,batch,7,0
+,Documentation,8,0
+,multi-cluster,6,0
+,multitenancy,1,1
+,Multi-tenancy,2,0
+,Batch,1,0
+,multitenacy,7,0
