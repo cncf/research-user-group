@@ -19,6 +19,10 @@ Twice-monthly meetings on the [second Wednesdays at 09:00 UTC][1], and the
 - [Resources and Links][links] - Helpful resources and links for cloud native
   or Kubernetes centric research computing.
 
+## Events
+
+- [KubeCon + CloudNativeCon North America 2019][kccncna19]
+
 
 [Mailing List]: https://lists.cncf.io/g/cncf-research-user-group
 [Meeting Agenda and Notes]: https://docs.google.com/document/d/1vvXxW4Cd4P5gcmWGz-_yKbgJex2_NlSWaHtsk_56TnA/edit?ts=5d53c5ff#
@@ -28,3 +32,4 @@ Twice-monthly meetings on the [second Wednesdays at 09:00 UTC][1], and the
 [Zoom]: https://zoom.us/my/cncfenduser
 [index]: /org-index
 [links]: /RESOURCES.md
+[kccncna19]: /events/2019/KCCNCNA

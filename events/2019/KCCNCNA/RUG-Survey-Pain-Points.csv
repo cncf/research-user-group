@@ -1,0 +1,36 @@
+Response #,Started At (CST),Screen Name,Public ID,What is the biggest pain point you've encountered with using Kubernetes as a research platform?
+1,11/20/19 2:13 PM,Attendee-1,627544,scale
+2,11/20/19 2:13 PM,Attendee-1,627544,scheduling
+3,11/20/19 2:13 PM,Attendee-1,627544,multi-cluster
+4,11/20/19 2:13 PM,Attendee-1,627544,security
+5,11/20/19 2:13 PM,Attendee-1,627544,file-system integration!
+6,11/20/19 2:15 PM,Attendee-1,627544,run-to-completion job support
+7,11/20/19 2:13 PM,Attendee-2,676445,multi-tenancy
+8,11/20/19 2:13 PM,Attendee-2,676445,Scheduling
+9,11/20/19 2:13 PM,Attendee-4,863457,OrganizationalSupport
+10,11/20/19 2:13 PM,Attendee-5,86216,Multi-tenancy
+11,11/20/19 2:13 PM,Attendee-6,935431,networking
+12,11/20/19 2:13 PM,Attendee-6,935431,scaling
+13,11/20/19 2:13 PM,Attendee-6,935431,munge-key
+14,11/20/19 2:13 PM,Attendee-6,935431,slurm
+15,11/20/19 2:13 PM,Attendee-6,935431,culture-change
+16,11/20/19 2:15 PM,Attendee-6,935431,IPV6
+17,11/20/19 2:13 PM,Attendee-7,285131,Learningcurve
+18,11/20/19 2:13 PM,Attendee-7,285131,Security
+19,11/20/19 2:14 PM,Attendee-7,285131,"""effort required"""
+20,11/20/19 2:15 PM,Attendee-7,285131,Learning Curve for our Users
+21,11/20/19 2:16 PM,Attendee-7,285131,Almost too many options  & new added every quarter
+22,11/20/19 2:18 PM,Attendee-7,285131,How to apply policy
+23,11/20/19 2:13 PM,Attendee-10,67197,Understanding and translating customer's needs
+24,11/20/19 2:13 PM,Attendee-11,540091,Multitenancy
+25,11/20/19 2:14 PM,Attendee-13,793127,accounting
+26,11/20/19 2:14 PM,Attendee-14,956116,Team knowledge
+27,11/20/19 2:15 PM,Attendee-14,956116,It's easy*
+28,11/20/19 2:14 PM,Attendee-16,1006912,Networking
+29,11/20/19 2:14 PM,Attendee-16,1006912,Scheduling
+30,11/20/19 2:15 PM,Attendee-16,1006912,Learning Curve
+31,11/20/19 2:16 PM,Attendee-16,1006912,Multi Cluster
+32,11/20/19 2:13 PM,Attendee-17,627398,Learning Curve
+33,11/20/19 2:13 PM,Attendee-17,627398,Learning curve
+34,11/20/19 2:14 PM,Attendee-17,627398,Shared file systems
+35,11/20/19 2:13 PM,Attendee-21,393960,lack of scheduling features
