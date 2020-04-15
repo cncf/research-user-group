@@ -10,8 +10,8 @@ Check the [Agenda] for an up-to-date listing of the next meeting time.
 
 |              | US (EST) |   APAC (AEDT)  |    EU (CET)    | UTC  |
 |-------------:|:--------:|:--------------:|:--------------:|------|
-| [Rotation 1] |    5AM   |       9PM      |      11AM      | [9AM](http://time.unitarium.com/utc/9) |
-| [Rotation 2] |    11AM   | 2AM (Next Day) |       5PM      | [3PM](http://time.unitarium.com/utc/15)  |
+| [Rotation 1] |    5AM   |       9PM      |      11AM      | [9AM](http://time.unitarium.com/utc/9) | First Wednesday of every month
+| [Rotation 2] |    11AM   | 2AM (Next Day) |       5PM      | [3PM](http://time.unitarium.com/utc/15)  | Third Wednesday of every month
 
 
 - [Mailing List]
