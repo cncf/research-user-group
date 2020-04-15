@@ -8,8 +8,8 @@ and directing effort to improve the Research Cloud Computing ecosystem.
 The CNCF Research User Group meets twice a month using a rotating schedule.
 Check the [Agenda] for an up-to-date listing of the next meeting time.
 
-|              | US (EST) |   APAC (AEDT)  |    EU (CET)    | UTC  |
-|-------------:|:--------:|:--------------:|:--------------:|------|
+|              | US (EST) |   APAC (AEDT)  |    EU (CET)    | UTC  | Schedule  |
+|-------------:|:--------:|:--------------:|:--------------:|:----:|:----------|
 | [Rotation 1] |    5AM   |       9PM      |      11AM      | [9AM](http://time.unitarium.com/utc/9) | First Wednesday of every month
 | [Rotation 2] |    11AM   | 2AM (Next Day) |       5PM      | [3PM](http://time.unitarium.com/utc/15)  | Third Wednesday of every month
 
