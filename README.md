@@ -32,9 +32,8 @@ Check the [Agenda] for an up-to-date listing of the next meeting time.
 
 [Mailing List]: https://lists.cncf.io/g/cncf-research-user-group
 [Meeting Agenda and Notes]: https://docs.google.com/document/d/1vvXxW4Cd4P5gcmWGz-_yKbgJex2_NlSWaHtsk_56TnA/edit?ts=5d53c5ff#
-[Rotation 1]: https://calendar.google.com/event?action=TEMPLATE&tmeid=NGhsdnFxZG1jbDZsaTllamVnZjdkZmduNG9fMjAxOTA4MTRUMDkwMDAwWiBjaHVuZ0BsaW51eGZvdW5kYXRpb24ub3Jn&tmsrc=chung%40linuxfoundation.org&scp=ALL
-[Rotation 2]: https://calendar.google.com/event?action=TEMPLATE&tmeid=NWs5c3I0bWxqMW9yb20wb3JzOXBpaHNmcnRfMjAyMDAxMjJUMTgwMDAwWiBjaHVuZ0BsaW51eGZvdW5kYXRpb24ub3Jn&tmsrc=chung%40linuxfoundation.org&scp=ALL
-[Rotation 3]: https://calendar.google.com/event?action=TEMPLATE&tmeid=NzdxbDNwY2x1aTMydDNidGxnOThqN2w2YWlfMjAyMDAyMDZUMDIwMDAwWiBjaHVuZ0BsaW51eGZvdW5kYXRpb24ub3Jn&tmsrc=chung%40linuxfoundation.org&scp=ALL
+[Rotation 1]: https://calendar.google.com/event?action=TEMPLATE&tmeid=bG5ldGUwcTliNDg2ZGxnZG91b3VoMTVpNWlfMjAyMDA1MDZUMDkwMDAwWiBsaW51eGZvdW5kYXRpb24ub3JnX2s5YXNtdjlsZWdzcXRoMWM2Z2FxcW9qMDJjQGc&tmsrc=linuxfoundation.org_k9asmv9legsqth1c6gaqqoj02c%40group.calendar.google.com&scp=ALL
+[Rotation 2]: https://calendar.google.com/event?action=TEMPLATE&tmeid=Y3VubGJxMXIyNDIyajB1cnZkaDN1czcyZjNfMjAyMDA1MjBUMTUwMDAwWiBsaW51eGZvdW5kYXRpb24ub3JnX2s5YXNtdjlsZWdzcXRoMWM2Z2FxcW9qMDJjQGc&tmsrc=linuxfoundation.org_k9asmv9legsqth1c6gaqqoj02c%40group.calendar.google.com&scp=ALL
 [Agenda]: https://docs.google.com/document/d/1vvXxW4Cd4P5gcmWGz-_yKbgJex2_NlSWaHtsk_56TnA/edit?ts=5d53c5ff#
 [Zoom]: https://zoom.us/my/cncfenduser
 [index]: /org-index
