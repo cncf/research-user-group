@@ -5,7 +5,7 @@ discussion and advancement of Research Computing using “Cloud Native”
 technologies. This includes enumerating current practices, identifying gaps,
 and directing effort to improve the Research Cloud Computing ecosystem.
 
-Calls on the [first Wednesday](https://calendar.google.com/event?action=TEMPLATE&tmeid=NXRxaGM4bnRranJtOTg1N2M2ZXJsb2ZsOWlfMjAyMDEwMDdUMTUwMDAwWiBsaW51eGZvdW5kYXRpb24ub3JnX281YXZqbHZ0MmNhZTlicTdhOTVlbWM0NzQwQGc&tmsrc=linuxfoundation.org_o5avjlvt2cae9bq7a95emc4740%40group.calendar.google.com&scp=ALL) and [third Wednesday](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmswcXZhcjdscXVzODZtM3MwaTc1MHBnbzdfMjAyMDA5MTZUMTUwMDAwWiBsaW51eGZvdW5kYXRpb24ub3JnX281YXZqbHZ0MmNhZTlicTdhOTVlbWM0NzQwQGc&tmsrc=linuxfoundation.org_o5avjlvt2cae9bq7a95emc4740%40group.calendar.google.com&scp=ALL) of each month at 17:00 CET / 8:00 PT / 15:00 UTC.
+Calls on the first Wednesday and third Wednesday of each month at 16:00 CET / 8:00 PT / 15:00 UTC.
 
 - [Mailing List]
 - [Meeting Notes Archive][Agenda]
