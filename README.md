@@ -5,7 +5,7 @@ discussion and advancement of Research Computing using “Cloud Native”
 technologies. This includes enumerating current practices, identifying gaps,
 and directing effort to improve the Research Cloud Computing ecosystem.
 
-Calls on the first Wednesday and third Wednesday of each month at 16:00 CET / 8:00 PT / 15:00 UTC.
+Calls on the first Wednesday and third Wednesday of each month at 17:00 CET / 8:00 PT / 16:00 UTC.
 
 - [Mailing List]
 - [Meeting Notes Archive][Agenda]
