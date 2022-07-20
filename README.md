@@ -9,6 +9,7 @@ and directing effort to improve the Research Cloud Computing ecosystem.
 
 ## Meeting Information
 
+- [Join Guest list](https://groups.google.com/a/cncf.io/g/cncf-research-user-group?hl=en) to get calendar invites
 - [Upcoming Events]
 - [Mailing List]
 - [Meeting Notes][Agenda]
