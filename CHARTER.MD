@@ -2,7 +2,7 @@
 
 Primary Authors: [@carolili](https://github.com/carolili)
 
-Approved on: TODO
+Approved on: 2026-10-30
 
 Reviewed and contributed to by:
 
